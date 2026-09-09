@@ -1,4 +1,4 @@
-## Hi there, my name is Lawal Aisha. I am a Data A 👋
+## Hi there, my name is Lawal Aisha. I am a Data Analyst. 👋
 
 <!--
 **NANAISHA10/NANAISHA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
